@@ -1,3 +1,9 @@
-p>a:hover{
+p{
+color:blue;
+}
+p:hover{
+ color:red;
+}
+p a:hover{
 color:red;
 }
